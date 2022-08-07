@@ -6,7 +6,6 @@ Key JavaScript concepts implemented:
 * objects
 * window.addEventListener("load", ()=>{})
 * addEventListener()
-* currentTarget property
 * array.length
 * textContent
 
